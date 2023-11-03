@@ -5,7 +5,7 @@
   .hero{
     height: 500px;
     max-width: 100%;
-    background-image: url(/img/bkgrd0.jpg);
+    background-image: url(../img/bkgrd0.jpg);
      background-repeat: no-repeat;
      background-position: center;
      background-size: cover;
@@ -50,7 +50,7 @@ p{
        font-size: 35px; 
     }
     .slide-2{
-        background-image: url(/img/sl1.jpg);
+        background-image: url(../img/sl1.jpg);
         height: 500px;
         max-width: 100%;
         background-repeat: no-repeat;
@@ -58,7 +58,7 @@ p{
          background-size: cover;
     }
     .slide-3{
-        background-image: url(/img/sl2.jpg);
+        background-image: url(../img/sl2.jpg);
         background-repeat: no-repeat;
        background-position: center;
         background-size: cover;
@@ -66,7 +66,7 @@ p{
         max-width: 100%;
     }
     .slide-4{
-        background-image: url(/img/sl3.jpg);
+        background-image: url(../img/sl3.jpg);
         height: 500px;
         max-width: 100%;
         background-repeat: no-repeat;
