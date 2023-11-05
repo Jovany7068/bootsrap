@@ -55,9 +55,9 @@ font-weight: 20px;
    font-family: 'Poppins', sans-serif;
    font-size: 13px; 
 }
-/* .row{
+.card{
    transition: all 0.2s;
 }
-.row:hover{
-   transform: scale(1.1s);
-} */
+.card :hover{
+   transform: translate(2.s);
+}
